@@ -12,7 +12,7 @@ namespace Album.Api.Services
 
         public string greet(string? name = null)
         {
-            return (String.IsNullOrWhiteSpace(name) || name == "") ? "Hello World from " + Dns.GetHostName() + " v2" : "Hello " + name + " from " + Dns.GetHostName() + " v2";
+            return (String.IsNullOrWhiteSpace(name) || name == "") ?  "Hello World from " + Dns.GetHostName() + " v2": "Hello " + name + " from " + Dns.GetHostName() + " v2";
         }
     }
 }

@@ -10,7 +10,7 @@ namespace Album.Api.Tests
         [Fact]
         public void TestWithGivenName()
         {
-            string name = "Usman";
+            string name = "Hamza";
             var greetingService = new GreetingService();
             Assert.Equal("Hello " + name + " from " + Dns.GetHostName() + " v2", greetingService.greet(name));
         }

@@ -1,10 +1,15 @@
-namespace Album.Api.Tests;
+﻿using System;
+using Xunit;
 
-public class UnitTest1
+namespace Album.Api.Tests
 {
-    [Fact]
-    public void Test1()
+    public class UnitTest1
     {
+        [Fact]
+        public void Test1()
+        {
 
+        }
     }
 }
+

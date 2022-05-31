@@ -1,5 +1,4 @@
-﻿using System;
-using Album.Api.Services;
+﻿using Album.Api.Services;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -19,4 +18,3 @@ namespace Album.Api.Controllers
         }
     }
 }
-
