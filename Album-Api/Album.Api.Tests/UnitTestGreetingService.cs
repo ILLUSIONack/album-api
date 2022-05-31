@@ -35,7 +35,5 @@ namespace Album.Api.Tests
             var greetingService = new GreetingService();
             Assert.Equal("Hello World from " + Dns.GetHostName() + " v2", greetingService.greet(" "));
         }
-
-        // Test
     }
 }
