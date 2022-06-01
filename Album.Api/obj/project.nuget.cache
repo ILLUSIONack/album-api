@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "97Lh0DS3qO591zl+Zv2MyPVPCgkGuhsA8mHjg9wYb4E0aiJbL34yeC+CpWwT64s8gvAyyHpXWQOhEjB5E8jw3g==",
+  "success": true,
+  "projectFilePath": "/Users/kevinson/album-api/Album-Api/Album.Api/Album.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/kevinson/.nuget/packages/microsoft.netcore.app.runtime.osx-x64/5.0.17/microsoft.netcore.app.runtime.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/kevinson/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-x64/5.0.17/microsoft.aspnetcore.app.runtime.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/kevinson/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
